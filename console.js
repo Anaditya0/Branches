@@ -6,3 +6,5 @@ After deleting and commiting the changes in linux, I tried to make changes throu
 But the file was restore in the GITHUB with new data.
 
 This line has been added in windows to check for merge conflict.
+
+Adding random line to check merge conflict in Visual code studio
