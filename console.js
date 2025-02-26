@@ -8,3 +8,4 @@ But the file was restore in the GITHUB with new data.
 
 This line has been added in windows to check for merge conflict.
 
+This is to check merge conflict in Vscode.
